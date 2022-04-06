@@ -1,0 +1,19 @@
+{
+        "vpc": "vpc-0d2547cda54e78416",
+        "publicsubnets": "subnet-0e31b952df7704922,subnet-06db11006cad9fec5",
+        "publicsubnetroutetableids": [
+            "rtb-0a2d8a2f9cbbe58fd",
+            "rtb-0df8dc84b4f00966"
+        ],
+        "privatesubnets": "subnet-0e2628ef6fd7d9768,subnet-06beaa1a02647ee0f",
+        "privatesubnetroutetableids": [
+            "rtb-057cff440f4b09326",
+            "rtb-0d4463802ce3c76c" 
+        ],
+        "azs": "us-east-1a,us-east-1b",
+        "cert": "arn:aws:acm:us-east-1:769749008949:certificate/60438f35-9c01-4a63-b2c2-e30537ef08b0",
+        "domain": "addsilv.awsps.myinstance.com",
+        "zoneid": "Z091658120O7WC10AHVFW",
+        "appname": "sampleapp"
+}
+ 
